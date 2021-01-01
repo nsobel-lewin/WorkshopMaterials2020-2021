@@ -13,3 +13,6 @@ Workshop topics:
 4. Introduction to plots in R
 5. Regression interpretation
 6. Introduction to regressions in R
+
+Difference
+
